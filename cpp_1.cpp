@@ -10,6 +10,8 @@ for (int i = 0; i < 8; i++)
     /* code */
 }
 
+printf("helow");
+
 /*화ㅏㅏㅏㅏㅏㅏㅏ*/
 /*마스터*/
     return 0;
